@@ -165,7 +165,6 @@ desafio1/
 ├── vagas.html
 ├── disponiveis.html
 ├── README.md
-├── dw_gr01_desafio_agenda_vf.pdf
 ├── css/
 │   └── style.css
 └── js/
